@@ -1,0 +1,58 @@
+body{
+    
+}
+
+#ata{
+    width: 50%;
+    margin-left: 25%;
+
+} 
+
+.principal{
+    padding: 30px;
+    background: #cccccc;
+}
+
+.titulo-principal{
+
+    padding-left: 20px;
+}
+.center{
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    background: #cccccc;
+}
+
+#missao{
+    font-size: 20px
+}
+
+em strong  {
+    color: red;
+}
+
+.itens {
+    font-style: italic;
+}
+
+.beneficios {
+    background: #FFFFFF;
+    padding: 20px;
+}
+
+
+
+ul {
+    vertical-align: top;
+    display: inline-block;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagempato {
+    width: 50%;
+
+}
